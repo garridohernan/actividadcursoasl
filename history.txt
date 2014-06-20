@@ -1,0 +1,500 @@
+  161  cd ..
+  162  ls
+  163  cd paquete-canaima/
+  164  ls
+  165  search canaima-notas-gnome
+  166  history 
+  167  ls
+  168  cd ..
+  169  ls
+  170  cd cursoasl/
+  171  ls
+  172  cd paquete-canaima/
+  173  ls
+  174  cd /home/equipo15/control/paquete-canaima
+  175  ls
+  176  bmon
+  177  cd ..
+  178  cd ..
+  179  ls
+  180  cd control
+  181  ls
+  182  cd paquete-canaima/
+  183  ls
+  184  cd ..
+  185  cd ..
+  186  ls
+  187  cd cursoasl/
+  188  ls
+  189  cd ..
+  190  cd ..
+  191  ls
+  192  cd ..
+  193  ls
+  194  cd canaima
+  195  cd canaima
+  196  cd equipo15
+  197  ls
+  198  pwd
+  199  cd lab
+  200  pwexit
+  201  exit
+  202  wget -r http:/172.16.1.63/deb
+  203  wget -r http:/172.16.1.63/deb
+  204  wget -r http://172.16.1.63/deb/
+  205  c-s-gui
+  206  wget -r http://172.16.1.63/deb/
+  207  c-s-gui
+  208   cd /
+  209  nano etc/network/interfaces 
+  210  if config -a; 
+  211  ifconfig -a
+  212  iwlist scann
+  213  aptitude wireless-tools
+  214  aptitude install  wireless-tools
+  215  aptitude install  wireless-tools
+  216  wireshark
+  217  aptitude install wireshark
+  218  aptitude install wireshark
+  219  aptitude install wireshark
+  220  updatedb
+  221  locate bmon
+  222  cd ..
+  223  ls
+  224  cd paquete/
+  225  LS
+  226  ls
+  227  cd ..
+  228  cd control
+  229  cd paquete-canaima/
+  230  mv /home/equipo15/paquete/bmon-2.0.1 .
+  231  ls
+  232  cd bmon-2.0.1/
+  233  ls
+  234  cd ..
+  235  git add
+  236  git add 
+  237  git add bmon-2.0.1/
+  238  git commit -a
+  239  git push
+  240  history 
+  241  updatedb
+  242  locate bmon
+  243  aptitude install canaima-semilla
+  244  c-s-gui
+  245  c-s-gui
+  246  cd /usr/share/canaima-semilla
+  247  ls
+  248  cd profiles
+  249  ls
+  250  cp -R primera-base/ gobernacion
+  251  ls
+  252  c-s-gui
+  253  la
+  254  ls
+  255  cd gobernacion/
+  256  ls
+  257  nano profile.conf 
+  258  c-s-gui
+  259  updatedb
+  260  locate canaima
+  261  cd /
+  262  ls
+  263  cd home
+  264  ls
+  265  cd equipos
+  266  cd equipo15
+  267  ls
+  268  cd cursoasl/
+  269  git pull
+  270  ls
+  271  ps -aux | grep -s -gui
+  272  ps -aux | grep c -gui
+  273  ps -aux | grep c -gui
+  274  ps -aux | grep c -s -gui
+  275  ps -aux | grep c-s-gui
+  276  kill -9 9498
+  277  ps -aux | grep c-s-gui
+  278  ps -aux | grep
+  279  LS
+  280  ls
+  281  git pull
+  282  ls
+  283  nano python.txt 
+  284  cd /
+  285  lspci | grep network
+  286  lspci | grep Network
+  287  lspci | grep Network
+  288  lsusb | grep Network
+  289  lsusb | grep 
+  290  lsusb | grep /help
+  291  aptitude install firmware-ralink
+  292  aptitude install firmware-ralink 
+  293  aptitude install firmware-ralink 
+  294  exit
+  295  aptitude install firmware-ralink 
+  296  iwlist scann
+  297  ifconfig wlan0
+  298  iwconfig wlan0 essid "escupol_yaracuy"
+  299  ifconfig wlan0
+  300  ifconfig wlan0
+  301  iwconfig wlan0 essid "escupol_yaracuy"
+  302  ifconfig wlan0
+  303  iwconfig wlan0 essid "escupol_yaracuy"
+  304  ifconfig wlan0
+  305  iwconfig wlan0 essid "escupol_yaracuy"
+  306  iwconfig wlan0 
+  307  dhclient wlan0 
+  308  dhclient wlan0 
+  309  dhclient wlan0 
+  310  history
+  311  user/shell/canaima-semilla
+  312  user/source/canaima-semilla
+  313  cd ..
+  314  ls
+  315  cd ..
+  316  /
+  317  cd /
+  318  cd /usr/share/canaima-semilla/ ls
+  319  ls
+  320  cd isos/
+  321  ls
+  322  tailf build.201406200844.log 
+  323  cd /usr/share/canaima-semilla/ ls
+  324  ls
+  325  cd profiles/
+  326  ls
+  327  cd gobernacion/
+  328  ls
+  329  nano profile.conf 
+  330  ls
+  331  nano profile.con
+  332  ls
+  333  nano profile.conf 
+  334  nano profile.conf 
+  335  nano profile.conf 
+  336  cd ..
+  337  ls
+  338  cd gobernacion/
+  339  ls
+  340  cd ..
+  341  ls
+  342  rm -R gobernacion/
+  343  ls
+  344  cp -R primera-base/ institucional
+  345  ls
+  346  cd institucional/
+  347  ls
+  348  nano profile.conf 
+  349  nano profile.conf 
+  350  nano profile.conf 
+  351  exit
+  352  history 
+  353  aptitude install arp-scan 
+  354  arp-scan --interface=eth0 --localnet
+  355  aptitude install nmat
+  356  aptitude install nmap
+  357  cd /usr/share/
+  358  ls
+  359  cd canaima-semilla/
+  360  ls
+  361  cd isos/
+  362  ls
+  363  cd chroot/
+  364  ls
+  365  cd ..
+  366  ls
+  367  chroot chroot
+  368  nmap -A -T4 172.16.1.5
+  369  nmap -A -T4 172.16.1.63
+  370  nmap -A -T4 172.16.1.63
+  371  nmap -A -T4 172.16.1.63
+  372  nano /etc/ssh/ssh_config 
+  373  nano /etc/ssh/ssh_config 
+  374  ifconfig
+  375  nmap -A -T4 172.16.1.77
+  376  nano /etc/ssh/ssh_config 
+  377  nmap -A -T4 172.16.1.77
+  378  ssh restart
+  379  aptitude search ssh
+  380  cd ..
+  381  cd ..
+  382  cd ..
+  383  cd ..
+  384  cd / etc/init.d
+  385  ls
+  386  ls
+  387  ls
+  388  ls
+  389  nano /etc/ssh/sshd_config 
+  390  /etc/init.d/ssh restart
+  391  nmap -A -T4 172.16.1.77
+  392  nmap -A  172.16.1.77
+  393  ifconfig 
+  394  nmap -A 172.16.1.77
+  395  /etc/init.d/ssh restart
+  396  nmap -A 172.16.1.77
+  397  nano /etc/ssh/sshd_config 
+  398  /etc/init.d/ssh restart
+  399  nmap -A -TA 172.16.1.77
+  400  nmap -A -T 172.16.1.77
+  401  nmap -A -T 172.16.1.78
+  402  CD /
+  403  cd
+  404  nmap -A -TA 172.16.1.77
+  405  nmap -A -T 172.16.1.78
+  406  nmap 172.16.1.78
+  407  nmap 172.16.1.77
+  408  nano /etc/ssh/ssh_config 
+  409  nano /etc/ssh/sshd_config 
+  410  nmap 172.16.1.77
+  411  /etc/init.d/ssh restart
+  412  nmap 172.16.1.77
+  413  nmap 172.16.1.77
+  414  nmap -A -T 172.16.1.78
+  415  nano /etc/ssh/sshd_config 
+  416  cd
+  417  cd home
+  418  ls
+  419  /
+  420  cd /
+  421  ls
+  422  cd home
+  423  ls
+  424  cd equipo15/
+  425  mkdir vene
+  426  ls
+  427  cd vene
+  428  wget -r http://venetur.gob.ve/
+  429  aptitude install imagesk
+  430  aptitude install imagemagik
+  431  aptitude install imagemagick
+  432  c-s contruir --medio ="iso" --arquitectura="i386" --sabor="popular"
+  433  c-s construir --medio ="iso" --arquitectura="i386" --sabor="popular"
+  434  c-s contruir --medio="iso" --arquitectura="i386" --sabor="popular"
+  435  c-s construir --medio="iso" --arquitectura="i386" --sabor="popular"
+  436  c-s construir --medio="iso" --arquitectura="i386" --sabor="gobernacion"
+  437  c-s construir --medio="iso" --arquitectura="i386" --sabor="primerabase"
+  438  c-s construir --medio="iso" --arquitectura="i386" --sabor="primera-base"
+  439  c-s construir --medio="iso" --arquitectura="i386" --sabor="gobernacion"
+  440  c-s construir --medio="iso" --arquitectura="i386" --sabor="gobernacion"
+  441  ls
+  442  cd usr/share/canaima-semilla/isos/
+  443  cd usr
+  444  cd usr/
+  445  ls
+  446  cd ..
+  447  ls
+  448  cd usr/share/canaima-semilla/isos/
+  449  cd equipo15/
+  450  cd usr/share/canaima-semilla/isos/
+  451  cd/
+  452  cd /
+  453  ls
+  454  cd usr/share/canaima-semilla/isos/
+  455  cd /usr/share/canaima-semilla/
+  456  ls
+  457  cd 
+  458  c-s construir --medio="iso" --arquitectura="i386" --sabor="institucional"
+  459  aptitude install install_flash_player_11_linux.i386.tar.gz
+  460  aptitude install icedtea-plugin flashplayer-mozilla
+  461  aptitude install xtightvn
+  462  aptitude install xtightvncviewer
+  463  ifconfig 
+  464  nmap -A -T 172.16.1.77
+  465  nmap -A  172.16.1.77
+  466  nmap 172.16.1.77
+  467  /etc/init.d/ssh restart 
+  468  nmap 172.16.1.77
+  469  ifconfig 
+  470  his
+  471  history 
+  472  mkdir evaluacion
+  473  ls
+  474  cd evaluacion/
+  475  git clone https://github.com/julioh/cursoasl.git
+  476  ls
+  477  cd cursoasl/
+  478  ls
+  479  nano evaluacion.txt
+  480  ls
+  481  cd homer
+  482  cd home
+  483  ls
+  484  cd evaluacion/
+  485  ls
+  486  cd actividadcursoasl/
+  487  ls
+  488  nano hernangarrido 
+  489  git add .
+  490  ls
+  491  cd home/
+  492  ls
+  493  cd evaluacion/
+  494  ls
+  495  cd actividadcursoasl/
+  496  ls
+  497  git add .
+  498  git commit -a
+  499  git push 
+  500  ls
+  501  ls
+  502  cd hernangarrido
+  503  touch curso1.txt 
+  504  touch curso2.txt 
+  505  touch curso3.txt 
+  506  touch curso4.txt 
+  507  touch curso5.txt 
+  508  ls -la
+  509  chmod curso1.txt 065 
+  510  chmod 065 curso1.txt  
+  511  chmod 726 curso2.txt  
+  512  chmod 111 curso3.txt  
+  513  chmod 227 curso4.txt  
+  514  rm -R curso5.txt 
+  515  ls
+  516  ls -la
+  517  touch curso5.txt 
+  518  chmod 064 curso.txt  
+  519  chmod 064 curso5.txt  
+  520  ls -la
+  521  ls
+  522  ls
+  523  mkdir cunaguaro
+  524  ls
+  525  cd cunaguaro/
+  526* 
+  527  ps -aux | grep cunaguaro >> cunaguaro.txt
+  528  ps -aux | grep cunaguaro.txt
+  529  ls
+  530  nano cunaguaro.txt 
+  531  cd ..
+  532  mkdir kernel 
+  533  ls
+  534  cd kernel/
+  535  ls
+  536  cd cunaguaro
+  537  cd cunaguaro
+  538  ls
+  539  cd ..
+  540  ls
+  541  cd cunaguaro
+  542  ls
+  543  nano cunaguaro.txt 
+  544  cd ..
+  545  ls
+  546  cd kernel/
+  547  ls
+  548* 
+  549  uname -a 
+  550  uname -a >>kernel.txt
+  551  ls
+  552  nano kernel.txt 
+  553  cd ..
+  554  mv kernel kernel1.0
+  555  ls
+  556  cd kernel1.0/
+  557  ls
+  558  more kernel.txt 
+  559  cd ..
+  560  ls
+  561  mkdir sl
+  562  ls
+  563  cd sl
+  564  ls
+  565  apt-get source sl
+  566  ls
+  567  cd sl-3.03/
+  568  ls
+  569  nano sl.h
+  570  aptitude search debuil
+  571  cd ..
+  572  dpkg-builpackage -us - uc 
+  573  cd ..
+  574  dpkg-builpackage -us - uc 
+  575  dpkg-source --commit 
+  576  ls
+  577  cd sl
+  578  ls
+  579  dpkg-source --commit 
+  580  sl
+  581  ls
+  582  nano sl-03.03
+  583  cd sl-3.03/
+  584  ls
+  585  nano sl.h
+  586  cd ..
+  587  dpkg-builpackage -us - uc 
+  588  dpkg-builpackage -us -uc 
+  589  ls
+  590  cd sl-3.03/
+  591  dpkg-builpackage -us -uc 
+  592  dpkg-buildpackage -us -uc
+  593  dpkg-source --commit
+  594  dpkg-buildpackage -us -uc
+  595  cd ..
+  596  cd ..
+  597  ls
+  598  mkdir canaima-semilla
+  599  ls
+  600  cd canaima-semilla/
+  601  cp -R primera-base/ nuevo sistema 
+  602  cd /usr/share/canaima-semilla/profiles/
+  603  ls
+  604  cp -R primera-base/ hernan garrido
+  605  cp -R primera-base/ hernangarrido
+  606  ls
+  607  pwd
+  608  cd ..
+  609  cd ..
+  610  cd ..
+  611  cd /
+  612  cd home
+  613  ls
+  614  cd evaluacion/
+  615  ls
+  616  cd actividadcursoasl/
+  617  ls
+  618  mv /usr/share/canaima-semilla/profiles
+  619  mv /usr/share/canaima-semilla/profiles
+  620* cd 
+  621  cd  /usr/share/canaima-semilla/profiles
+  622  ls
+  623  cp -R primera-base/ /home/evaluacion/actividadcursoasl/canaima-semilla
+  624  cd /
+  625  ls
+  626  cd home
+  627  ls
+  628  cd evaluacion/
+  629  ls
+  630  cd actividadcursoasl/
+  631  LS
+  632  ls
+  633  cd canaima-semilla/
+  634  ls
+  635  mv primera-base/ hernangarrido
+  636  ls
+  637  cd hernangarrido/
+  638  ls
+  639  nano profile.conf 
+  640  nano profile.conf 
+  641  ls
+  642  touch pasos.txt
+  643  nano pasos.txt 
+  644  ls
+  645  cd ..
+  646  git push 
+  647  git add .
+  648  git commit -a 
+  649  git push 
+  650  nano/etc /apt/ source.list
+  651  nano /etc /apt/ source.list
+  652  cd ..
+  653  cd ..
+  654  history >> history.txt
+  655  ls
+  656  cd cursoasl/
+  657  cd ..
+  658  cd actividadcursoasl/
+  659  ls
+  660  history >> history.txt

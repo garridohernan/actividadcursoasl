@@ -72,11 +72,37 @@ x11vnc -bg -gui -paswd
 18- donde se modifican los repositorios en debian, 
    - cuales son los pasos para ejecutar un repositorio nuevo.
 
+etc/apt/source.list
+
+pasos
+nano etc/source.list
+deb + rura del repositorio
+apt-get update actualizamos los repositorios
+
+
+
+
 19- Las particiones de un disco se nombran mediante el nombre de dispositivo y el
 número de partición:
 
-20- Como hago un repositorio con debmirror, comando.
 
+los discos duro ide
+
+HDa maestro
+HDb  slave
+HDc maestro secundario
+HDd slave secundario
+
+disco duro sata
+
+sdA 1 sda1 sda2 sda3 sda4
+sdb 2
+sdc
+sdd 
+sde 
+
+20- Como hago un repositorio con debmirror, comando.
+debmirror --host=http.us.debian.org --root=debian --cleanup --nosource --ignore-missing-release --progress --ignore-release-gpg --arch=i386,amd64 --dist=wheezy,jessie --method=http --section=main,contrib,non-free /var/www/debian
 21- Guardar el history en .txt para verificar todo lo anterior fue realizado por ti.
 
  

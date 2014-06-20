@@ -1,0 +1,4 @@
+equipo15  6905  1.8  3.8 849888 154584 ?       Sl   13:28   0:36 cunaguaro
+root      7366  0.0  0.0   7848   880 pts/1    S+   14:00   0:00 grep --color=auto cunaguaro
+equipo15  6905  1.8  3.8 849952 154584 ?       Sl   13:28   0:36 cunaguaro
+root      7377  0.0  0.0   7848   884 pts/1    S+   14:01   0:00 grep --color=auto cunaguaro
