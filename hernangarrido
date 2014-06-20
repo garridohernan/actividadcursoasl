@@ -20,9 +20,10 @@ history -c
  -curso5.txt   ---RW-R--
 
 6-Como puedo visualizar las particiones del disco duro
+fdisk -l
 
 7-Como matamos un proceso del computador
-
+kill -9 + proceso
 8-Crear un carpeta llamada cunaguaro.
   -abrir cunaguaro
   -guardar la busqueda en archivo llamado cunaguaro.txt
@@ -32,18 +33,16 @@ history -c
   -mover la carpeta kernel por kernel1.0
 
 10-Como configuras una interfaz de red con dhcp
+dhclient wlan0
 
 11-Que sucede cuando ejecutas el
 comando: touch registros
-- Copia el archivo registros al directorio actual.
+
 -Crea un archivo vacío llamado registros.
--Borra el archivo registros.
--Mueve el archivo registros al directorio actual
+
 
 12-El comando: more examen
-- Despliega el contenido del archivo examen, una pantalla a la vez.
-- Nos cambia al directorio examen.
-- Crea el archivo examen el directorio actual.
+
 - Muestra las primeras líneas del archivo examen
 
 13-crear un carpeta sl
@@ -52,15 +51,23 @@ con su nombre generar un nuevo paquete, e instalarlo
   subir dichos paquetes al servidor de github
 
 14-comando para listar redes inalambricas.
-
+iwlist scann
 15-como funcionan x11vnc, pasos del cliente y servidor
 
+aptitude install x11vnc                   este servicio debe estar corrirendo
+aptitude install xtightvncviewer
+
+para realizarlo  el servico este corriendo en el cliente 
+
 16- Como agregamos el usuario y gestionamos el cambio de contraseña
+x11vnc -bg -gui -paswd  
 
 17-crear un carpeta canaima-semilla, copiar un sabor desde primera-base
   llamarlo con el nombre de ustedes, editarlo todos los perfil personalizado.
    subir dicha carpeta a github.
    - agregar un txt, con los pasos para ejecutar la creacion de la .iso
+
+
 
 18- donde se modifican los repositorios en debian, 
    - cuales son los pasos para ejecutar un repositorio nuevo.
